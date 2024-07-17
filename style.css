@@ -8,19 +8,21 @@ body {
 }
 
 .name-container {
-  width: 100%;
   position: absolute;
-  top: 10px;
+  top: 14vw;
 }
 
 .name {
   font-family: Lobster;
   color: #540031;
+  font-size: 6vw;
 }
 
 .designation {
   font-family: Jaro;
   color: #FFDBC5;
+  font-size: 5vw;
+  margin-top: 7vw;
 }
 
 .subheading {
@@ -37,7 +39,6 @@ hr {
 
 .footer {
   background-color: #810132;
-  width: 100%;
 }
 
 .color {
