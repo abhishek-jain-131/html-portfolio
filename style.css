@@ -77,3 +77,8 @@ hr {
   background-color: #FF6B40;
   color: #FFDBC5;
 }
+
+.contact-btn:active {
+  background-color: #FF6B40 !important;
+  color: #FFDBC5 !important;
+}
